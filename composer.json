@@ -1,0 +1,19 @@
+{
+    "name": "anthonyandino/proyecto_des_vs1",
+    "description": "PROYECTO DES PHP, MYSQL, ETC",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\": "./models"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "N"
+        }
+    ],
+    "require": {}
+}
